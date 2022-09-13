@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(147, 235, 223);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(228, 33, 98);
+    padding: 20px;
+    margin-top: 200px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+
+div {
+    margin-left: 45%;
+}
+
+
+.button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+}
+
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+#btn {
+    display: block;
+    text-align: center;
+    padding: 15px 32px;
+    border-radius: 10px;
+    cursor: pointer;
+    align-items: center;
+
+}

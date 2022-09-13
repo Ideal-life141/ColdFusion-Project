@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(147, 235, 223);
+}
+
+center {
+    color: rgb(224, 72, 11);
+    padding: 20px;
+    margin-top: 110px
+}
+
+
+#head {
+    text-align: center;
+    color: rgb(180, 22, 228);
+    padding: 20px;
+    margin-top: 10px;
+}
+
+#div1 {
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+.button2 {
+    background-color: white;
+    color: rgb(34, 214, 18);
+    border: 2px solid #008CBA;
+}
+
+.button2:hover {
+    background-color: #60c747;
+    color: rgb(252, 252, 252);
+}
+
+#btn {
+    display: block;
+    text-align: center;
+    padding: 15px 32px;
+    border-radius: 10px;
+    cursor: pointer;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#wel {
+    color: rgba(226, 44, 120, 0.918)
+}

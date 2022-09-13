@@ -1,0 +1,96 @@
+
+body {
+    margin: 30px;
+    background-color: rgb(177, 252, 248);
+}
+
+h1 {
+    color: rgb(223, 50, 93);
+    text-align: center;
+}
+
+#div1 {
+    margin-left: 8%;
+}
+
+
+#div2 {
+    margin-left: 10%;
+    margin-bottom: 8px;
+}
+
+
+fieldset {
+    display: flexbox;
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 15px;
+    background-color: rgb(250, 225, 201);
+    width: 90%;
+
+
+}
+
+
+
+form {
+    margin-left: 35%;
+    margin-top: 8px;
+}
+
+
+
+input {
+    margin: 8px 5px 10px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 8px;
+    width: 50%;
+}
+
+
+
+button {
+    margin: 5px 10px 5px 10px;
+    text-align: center;
+    border: 2px solid gray;
+    border-radius: 8px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+#btn1:hover {
+    background-color: rgb(177, 252, 248);
+    color: black;
+}
+
+#btn2:hover {
+    background-color: rgb(177, 252, 248);
+    color: black;
+}
+
+#name:hover {
+    background-color: rgb(177, 252, 248);
+    color: black;
+}
+
+#username:hover {
+    background-color: rgb(177, 252, 248);
+    color: black;
+}
+
+#email:hover {
+    background-color: rgb(177, 252, 248);
+    color: black;
+}
+
+#password:hover {
+    background-color: rgb(177, 252, 248);
+    color: black;
+}
+
+#mobile:hover {
+    background-color: rgb(177, 252, 248);
+    color: black;
+}
